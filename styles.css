@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url(/Fundo_Prancheta\ 1.png);
+}
+
+h1 {
+    color: #0d4b4e;
+}
+
+p {
+    color: #282f39;
+    font-size: 20px;
+}
+
+header {
+    padding: 5px 0;
+    background-color: #0d4b4e48;
+}
+
+html,body {
+    height: 100%;
+    overflow-y: hidden;
+}
+
+h3 {
+    padding-top: 10px;
+    
+}
+
+.letra-xuxu {
+    font-size: 15px;
+}
+.menu{
+    width: 50%;
+    text-align: right;
+    padding-top: 25px;
+}
+
+.menu a {
+    color: #0d4b4e;;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+    font-size: 25px;
+}
+
+.logo {
+    width: 50%;
+}
+
+.center{ 
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.texto-sobre {
+    margin-top: 100px;
+}
+
+.texto-sobre h1{
+    font-size: 40px;
+}
